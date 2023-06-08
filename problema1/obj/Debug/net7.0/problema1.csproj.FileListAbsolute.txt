@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\tp8\problema1\bin\Debug\net7.0\problema1.exe
+C:\Users\Alumno\Desktop\tp8\problema1\bin\Debug\net7.0\problema1.deps.json
+C:\Users\Alumno\Desktop\tp8\problema1\bin\Debug\net7.0\problema1.runtimeconfig.json
+C:\Users\Alumno\Desktop\tp8\problema1\bin\Debug\net7.0\problema1.dll
+C:\Users\Alumno\Desktop\tp8\problema1\bin\Debug\net7.0\problema1.pdb
+C:\Users\Alumno\Desktop\tp8\problema1\obj\Debug\net7.0\problema1.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\tp8\problema1\obj\Debug\net7.0\problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tp8\problema1\obj\Debug\net7.0\problema1.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tp8\problema1\obj\Debug\net7.0\problema1.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tp8\problema1\obj\Debug\net7.0\problema1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tp8\problema1\obj\Debug\net7.0\problema1.dll
+C:\Users\Alumno\Desktop\tp8\problema1\obj\Debug\net7.0\refint\problema1.dll
+C:\Users\Alumno\Desktop\tp8\problema1\obj\Debug\net7.0\problema1.pdb
+C:\Users\Alumno\Desktop\tp8\problema1\obj\Debug\net7.0\problema1.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tp8\problema1\obj\Debug\net7.0\ref\problema1.dll
